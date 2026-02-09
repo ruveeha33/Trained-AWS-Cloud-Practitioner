@@ -1,7 +1,7 @@
 # Trained-AWS-Cloud-Practitioner
 # AWS Cloud Practitioner – Learning Journey
 
-This repository represents my AWS Cloud Practitioner learning journey, focused on building a strong conceptual foundation along with hands-on AWS console practice.
+This repository represents my *AWS Cloud Practitioner* learning journey, focused on building a strong conceptual foundation along with *hands-on AWS console practice*.
 
 The goal of this journey was not only to prepare for the certification, but to truly understand how cloud services work in real-world scenarios.
 
