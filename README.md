@@ -12,16 +12,16 @@ The goal of this journey was not only to prepare for the certification, but to t
 - Learn AWS global infrastructure and services
 - Gain hands-on experience using the AWS Management Console
 - Strengthen knowledge through practical assignments
-- Earn AWS Cloud Practitioner badge and certification
+- Complete AWS Cloud Practitioner training and retain course-completion evidence
 - Build confidence for advanced cloud and DevOps learning paths
 
 
-## Certification & Recognition:
+## Training & Recognition:
 
-- AWS Cloud Practitioner Badge (earned)
-- AWS Cloud Practitioner Certificate (earned)
+- AWS Cloud Quest: Cloud Practitioner training badge
+- AWS Cloud Practitioner Essentials course-completion certificate
 
-These achievements validate both theoretical understanding and practical exposure to AWS fundamentals.
+These records document training and course completion; they do not establish the AWS Certified Cloud Practitioner certification.
 
 
 ## Topics Covered:
@@ -93,3 +93,9 @@ This approach helped in developing a clear, long-term understanding of AWS funda
 
 
 If you find this repository helpful, feel free to explore and star it.
+
+
+## Credential scope
+
+These are training and course-completion records, not AWS professional certification claims. [Verified training context](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md#credentials-and-course-completions).
+
